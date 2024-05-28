@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Thakur</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, Spring MVC, Python**
+- 🌱 I’m currently learning **Next.js, Spring MVC, Web3**
 
 - 💬 Ask me about **React.js, JavaScript**
 
