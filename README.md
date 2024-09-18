@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash Thakur</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **Next.js, Spring MVC, Web3**
+- 🌱 I’m currently learning **Java Spring FrameWork, Micro Services, Web3**
 
-- 💬 Ask me about **React.js, JavaScript**
+- 💬 Ask me about **React.js, Java , JavaScript**
 
 - 📫 How to reach me **avinash98pt@gmail.com**
 
