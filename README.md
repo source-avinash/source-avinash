@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash Thakur</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate about Enterprise digital solutions</h3>
 
-- 🌱 I’m currently learning **Java Spring FrameWork, Micro Services, Web3**
+- 🌱 I’m currently learning **Aws, GoLang**
 
-- 💬 Ask me about **React.js, Java , JavaScript**
+- 💬 Ask me about **Java , Spring Boot, Microservices**
 
 - 📫 How to reach me **avinash98pt@gmail.com**
 
